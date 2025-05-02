@@ -1,0 +1,83 @@
+DATA REQUEST App
+
+AYOBA APP DOWNLOAD REQUEST
+
+DATA BUNDLE ACTIVATION REQ
+
+From the home page, click on "Buy Data". select the bundle category "Data Bundles". Select the bundle type under daily, weekly, monthly, 2months, 3months, 6months, yearly. Select the payment method: Pay with Airtime: select your number to complete the transaction Pay with MoMo PSB: click "Send OTP", input the OTP once received. You will be asked to enter MoMo pin to complete the transaction. Ensure that the line is registered on MoMo. Pay with Bank Transfer: You will be given an account details to transfer the amount to within 46 minutes. Once you have transferred the amount, click on "I've sent the money". Pay with Card: input your card details to proceed. An OTP will be sent. Enter the OTP to complete the transaction. pay with USSD: Click on the drop down and select your bank if listed. Then click on the Dial button.
+
+DATA BUNDLE AUTORENEWAL ACTIVATION REQ
+
+From the home page, click on "More" the 3 dot icon at the bottom right of the app. Under "My Account" click on "Manage Subscription" Under Active Subscription,you will see he active bundle details. Below the bundle description, tap on the toggle to turn on auto-renewal. Then the toggle turns yellow and the opt-in SMS notification
+
+DATA BUNDLE BALANCE REQ
+
+From the home page, The data balance can be seen on the balance card. You can also click on "View Details" at the buttom of the balance card. The data balance can be seen under "Data" tab.
+
+DATA BUNDLE STOP AUTORENEWAL
+
+From the home page, click on "More" the 3 dot icon at the bottom right of the app. Under "My Account" click on "Manage Subscription" Under "Active Subscription",you will see he active bundle details. Below the bundle description, tap on the toggle to turn off auto-renewal. Then the toggle goes grey and an opt-out notification will be sent.
+
+Activation and deactivation of these VAS are not available on the digital channels.
+
+VAS REQUEST
+
+# Sensitivity: MTN Group - Internal
+
+To Activate: Dial *305#, select option 2 for "Discover new services" Select "2CanPlay" or the service you desire. Select the validity you desire (Daily or Weekly). You will receive a prompt to Accept or Cancel to complete the activation. Click "Accept Auto-renewal" or "Accept One-Off" to proceed. An activation message will be sent via SMS.
+
+2CANPLAY REQUEST
+
+To Deactivate: Dial *305#, select option 1 for " see your current services" All the active services will be displayed. Select the option of the service you will like to manage (2CANPLAY). The net prompt tells you the name of the service, the expiry date and the option to unsubscribe or opt-out of auto-renewal. Type option 1 to unsubscribe and select "Ok" A message will be sent to confirm the deactivation.
+
+To Activate: Dial *305#, select option 2 for "Discover new services" Select "40 AND FABULOUS" or the service you desire. Select the validity you desire (Daily or Weekly). You will receive a prompt to Accept or Cancel to complete the activation. Click "Accept Auto-renewal" or "Accept One-Off" to proceed. An activation message will be sent via SMS.
+
+40 AND FABULOUS GAME REQUEST
+
+To Deactivate: Dial *305#, select option 1 for " see your current services" All the active services will be displayed. Select the option of the service you will like to manage (40 AND FABULOUS). The net prompt tells you the name of the service, the expiry date and the option to unsubscribe or opt-out of auto-renewal. Type option 1 to unsubscribe and select "Ok" A message will be sent to confirm the deactivation.
+
+# Sensitivity: MTN Group - Internal
+
+To Activate: Dial *305#, select option 2 for "Discover new services" Select "2CanPlay" or the service you desire. Select the validity you desire (Daily or Weekly). You will receive a prompt to Accept or Cancel to complete the activation. Click "Accept Auto-renewal" or "Accept One-Off" to proceed. An activation message will be sent via SMS.
+
+5 LOTTOS REQUEST
+
+To Deactivate: Dial *305#, select option 1 for " see your current services" All the active services will be displayed. Select the option of the service you will like to manage (2CANPLAY). The net prompt tells you the name of the service, the expiry date and the option to unsubscribe or opt-out of auto-renewal. Type option 1 to unsubscribe and select "Ok" A message will be sent to confirm the deactivation.
+
+To Activate: Dial *305#, select option 2 for "Discover new services" Select "APPPLUS" or the service you desire. Select the validity you desire (Daily or Weekly). You will receive a prompt to Accept or Cancel to complete the activation. Click "Accept Auto-renewal" or "Accept One-Off" to proceed. An activation message will be sent via SMS.
+
+APPPLUS GAMES REQUEST
+
+To Deactivate: Dial *305#, select option 1 for " see your current services" All the active services will be displayed. Select the option of the service you will like to manage (APPPLUS). The net prompt tells you the name of the service, the expiry date and the option to unsubscribe or opt-out of auto-renewal. Type option 1 to unsubscribe and select "Ok" A message will be sent to confirm the deactivation.
+
+# Sensitivity: MTN Group - Internal
+
+To Activate: Dial *305#, select option 2 for "Discover new services" Select "APPSCLUB" or the service you desire. Select the validity you desire (Daily or Weekly). You will receive a prompt to Accept or Cancel to complete the activation. Click "Accept Auto-renewal" or "Accept One-Off" to proceed. An activation message will be sent via SMS.
+
+APPSCLUB REQUEST
+
+To Deactivate: Dial *305#, select option 1 for " see your current services" All the active services will be displayed. Select the option of the service you will like to manage (APPSCLUB). The net prompt tells you the name of the service, the expiry date and the option to unsubscribe or opt-out of auto-renewal. Type option 1 to unsubscribe and select "Ok" A message will be sent to confirm the deactivation.
+
+TARIFF PLAN REQUEST
+
+BETATALK MIGRATION REQ
+
+On the home page, click on the arrow by the tariff plan displayed on the balance card. Under "Personal Plans", scroll to MTN Betatalk and click on "Migrate" Click on "Proceed" on the confirmation prompt displayed.
+
+BIZCLASS MIGRATION REQ
+
+On the home page, click on the arrow by the tariff plan displayed on the balance card Under "Business Plans", scroll to MTN BizClass and click on "Migrate" Click on "Proceed" on the confirmation prompt displayed.
+
+BIZCONNECT MIGRATION REQ
+
+On the home page, click on the arrow by the tariff plan displayed on the balance card Under "Business Plans", scroll to MTN BizConnect and click on "Migrate" Click on "Proceed" on the confirmation prompt displayed.
+
+BIZPLUS MIGRATION REQ
+
+On the home page, click on the arrow by the tariff plan displayed on the balance card Under "Business Plans", scroll to MTN BizPlus and click on Migrate Click on "Proceed" on the confirmation prompt displayed.
+
+MPULSE MIGRATION REQ
+
+On the home page, click on the arrow by the tariff plan displayed on the balance card Under "Personal Plans", scroll to MTN mPulse and click on "Migrate" Click on" Proceed" on the confirmation prompt displayed.
+
+NIN ISSUES
