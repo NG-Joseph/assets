@@ -1,0 +1,171 @@
+Y’ello Team,
+
+Do you know that the 5G ZTE device is plug and play , device automatically turns on once the adapter is plugged in
+
+Below is the 5G ZTE Router Features.
+
+1. SIGNAL LED: Show the strength of the network connectivity, Low, medium and high.
+
+2. Network : On the signal indicator, white indicates 5G signal, Blue light indicates 4G, Green light indicates
+
+3G and Red indicates weak signal, or no sim detected.
+
+3. Wi-Fi LED : White means WIFI functioning properly and light off means WIFI disabled.
+
+5 4. Power LED : The device LED automatically turns on once the adapter is plugged in, and goes off once its
+
+unplugged.
+
+6 5. WPS : This button enable visibility for another device to connect.
+
+1
+
+6. Telephone Port: Telephone port for voice over call which is currently in production and not available now. 7
+
+2 7. Ethernet Port (LAN1-LAN2): Can connect PC or other devices with cable to provide local area network
+
+3 service.
+
+8
+
+4 8. Power connector: A small receptacle that accepts a power adapter or cord, often labeled as "DC In" or
+
+"Power In".
+
+Sensitivity: Public
+
+5G ROUTER LED INDICATORS
+
+Signal Strength LED : On the signal indicator, blue indicates a good signal, green indicates medium signal, and red indicates weak signal.
+
+5G/4G LED : 4G light solid blue indicates strong 4G network while 5G light solid blue indicates strong 5G network. The 4G and 5G lights are on solid blue together indicates good 5G Network. When the 4G and 5G light are off and the signal light is on, it means service has drop to 3G.
+
+WPS : This button enable visibility for another device to connect.
+
+Wi-Fi LED : Solid blue means WIFI functioning properly and light off means WIFI disabled.
+
+Power LED : Solid blue means working properly. Light off means no power.
+
+Reset pinhole: The point at which the router can be reset. A long press for 6 secs with a pin will reset the router.
+
+Telephone Port – Telephone port for voice over call which is currently in production and not available now.
+
+Ethernet Port (LAN1-LAN4 ) : Can connect PC or other devices with cable to provide local area network service.
+
+Sensitivity: Public
+
+MTN Broadband 5G CPE
+
+Product Overview
+
+3
+
+To Access OTP on the Router Number through the device interface management Portal 1. Connect Broadband device to your Phone or laptop (either wireless or LAN Connection) 2. Click on the http://192.168.0.1/m/index.html#/login displays the MTN Broadband login page . 3. Enter password as ‘admin ‘ on the page to access the device user interface. 4. Locate the SMS Pane on the Device Management Page and click to view OTP Sent to the SIM.
+
+2
+
+3
+
+4
+
+Sensitivity: Public
+
+Inside MTN 5G Box
+
+1. One (1) 5G Router
+
+2. One (1) External Power Adapter
+
+3. One (1) MTN Nano_SIM
+
+4. A copy of User Guide
+
+5. Power-bank battery with off and On switch
+
+6. LAN Cable
+
+Fixed Broadband
+
+xxx
+
+FAQ
+
+MTN Broadband - FAQ
+
+Frequently Asked Questions Q. How do I get a MTN Broadband router? A. You can buy MTN Broadband router from the nearest MTN Store to you. You can also visit MTN’s online store on place an order via WhatsApp (07025000040)
+
+Q. Is the MTN Broadband service available nationwide? A. Yes. MTN Broadband service is available across MTN’s wide 5G, 4G or 3G network coverage nationwide.
+
+Q. Is there a warranty on the MTN Broadband device? A. Yes. The warranty on the device is valid for one year. A faulty device is to be returned to the point of purchase for resolution or replacement subject to technical assessment at the store.
+
+Q. How do I activate the initial Welcome Data Offer? A. Just register your new Broadband SIM card and insert it into your Any phone to SMS code to 312 .
+
+Device type Identifier SMS code
+
+MIFI ACTIVATE
+
+4G ROUTER(STANDARD) 4GCPE
+
+4G ROUTER(PREMIUM) 4GCAT6
+
+5G Router 5GCPE
+
+Fixed Broadband
+
+MTN Broadband - FAQ
+
+Q. Can I buy any other data when my Broadband Unlimited Data bundle reaches the fair usage threshold before the bundle expires?
+
+A. Yes. You can subscribe to another Broadband data bundle of your choice, when your Unlimited Data bundle reaches the defined threshold
+
+before the end of its validity period
+
+Q. How much is Broadband Unlimited Data? A. Broadband Unlimited Data bundles are available for as low as N5,000 (Weekly plan), N20,000 (Monthly plan); higher data plans are also available. Please visit Cheapest Data Bundles | Shop MTN Nigeria for more details
+
+Q. What are the various validity periods available for MTN Broadband Capped Data plans? A. Yes. MTN has a wide range of validity periods for capped plans valid i.e., 1 month, 2 months, 3 months, 6 months and 12 months. Please visit Broadband - MTN Nigeria for more details.
+
+Q. How do I check the MTN Broadband Airtime and Data balances? A. You can check your HyNetflex Data balance or airtime balance through MyMTN App, or MTN’s Data portal: http://mymtn.com.ng , or USSD channels: *312*500#. You can also check your data/airtime balance(s) directly from Broadband router interface/firmware on 192.168.0.1
+
+Q. Will I be able to roll over my unused data? A. Yes. You will be able to roll over your unused data bundle. Terms & conditions apply.
+
+Fixed Broadband
+
+MTN Broadband - FAQ
+
+Q. How do I know if my MTN Broadband router is on 4G or 3G? A. Blue network signal light on your Broadband router indicates your Broadband is on 4G, while a green network signal light indicates 3G. Note that the switch between 4G and 3G on your Broadband router is automatic depending on the available network in your location.
+
+Q. How should I get the best use of my MTN Broadband in-built battery? A. You are advised to ensure the in-built battery is fully charged before the 1 st use
+
+Q. How do I make other devices (phones/tablets/laptops) discover my MTN Broadband for a wireless (WiFi) connection? A. Simply press the WPS button at the top of your Broadband router to enable other devices discover your Broadband for a wireless connection via WiFi.
+
+Q. How do I know if I am in a 5G Coverage Area? A. Simply download MyMTNApp to check or click on link and search for your location https ://coverage.mtn.ng/.
+
+Q. Why Is my data depleting very Fast? A. Your data is depleted based on a variety of factors from your device type to network mode selected, to the volume of your internet usage.
+
+Fixed Broadband
+
+Q. What causes Data Consumption/Usage/Depletion? A . Your data is used whenever your phone/Laptop/TV etc. connects to the internet. The following activities are the most common uses that reduce your data: Sending and receiving emails, • Downloading and uploading files (pictures, documents, videos, etc.) – the larger the file, the more the data consumption,
+
+• Browsing the internet – the more pictures, videos or graphics on the websites visited, the more data is used,
+
+• Instant Messaging – like WhatsApp, Facebook Messenger, Snapchat, etc.
+
+• Streaming music/ videos on YouTube, Hulu, Netflix and other channels,
+
+• Games – games use a lot more data than most people imagine, due to the intense graphics and algorithms that power them,
+
+• Social media applications such as Facebook, WhatsApp, Twitter,
+
+• Instagram, etc.
+
+• Video-chatting and conferencing applications like Zoom, Skype, WhatsApp Video, etc.
+
+• Automatic update of application installed on the device or device Operating system (OS)
+
+• Automatic file upload to the cloud (iCloud, Google Photos, Microsoft Cloud, Amazon etc.)
+
+• Using devices as Hotspots for other digital devices (TV, Games etc.)
+
+• Click link for more Data management Tips for both mobile/Broadband device https://www.mtnonline.com/track-data-usage
+
+Fixed Broadband
